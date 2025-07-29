@@ -1,0 +1,12 @@
+[
+    {"name": "Пицца", "img": null, "price": 350},
+    {"name": "Бургер", "img": null, "price": 250},
+    {"name": "Суши", "img": null, "price": 400},
+    {"name": "Салат", "img": null, "price": 200},
+    {"name": "Паста", "img": null, "price": 300},
+    {"name": "Стейк", "img": null, "price": 600},
+    {"name": "Шашлык", "img": null, "price": 500},
+    {"name": "Омлет", "img": null, "price": 180},
+    {"name": "Борщ", "img": null, "price": 220},
+    {"name": "Пельмени", "img": null, "price": 270}
+]
